@@ -1,0 +1,28 @@
+name: CreativeCurve
+favicon: null
+layout_spectrum: 0.32980819256044924
+typography_spectrum: 0.648053850280121
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.740974213462323
+  lightness: 0.8669646319467574
+  saturation: 0.14142561657354236
+  rhythmicContrast: 0.38120062462985516
+purpose: []
