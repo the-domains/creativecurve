@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CreativeCurve]]></title>
+        <description><![CDATA[CreativeCurve]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Jan 2016 12:14:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Toilet Design]]></title>
+            <description><![CDATA[<article><h1>Toilet Design</h1><p>Test</p></article>]]></description>
+            <link>undefinedtoilet-design/index.html</link>
+            <guid isPermaLink="false">beb75181-6668-40f1-b96a-b7524d1d29af</guid>
+            <pubDate>Sun, 10 Jan 2016 12:14:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
