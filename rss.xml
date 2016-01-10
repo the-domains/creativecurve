@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[CreativeCurve]]></title>
         <description><![CDATA[CreativeCurve]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/creativecurve/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 12:14:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Jan 2016 12:50:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/creativecurve/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Master Bedroom Design]]></title>
+            <description><![CDATA[<article><h1>Master Bedroom Design</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3aa64546a5f6f2d3b6305c18503da5dd7aad342d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/creativecurve/master-bedroom-design/index.html</link>
+            <guid isPermaLink="false">94dd2d9e-4ddb-421b-a569-d2dff08ac263</guid>
+            <pubDate>Sun, 10 Jan 2016 12:50:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Toilet Design]]></title>
             <description><![CDATA[<article><h1>Toilet Design</h1><p>Test</p></article>]]></description>
-            <link>undefinedtoilet-design/index.html</link>
+            <link>https://thegrid.ai/creativecurve/toilet-design/index.html</link>
             <guid isPermaLink="false">beb75181-6668-40f1-b96a-b7524d1d29af</guid>
             <pubDate>Sun, 10 Jan 2016 12:14:13 GMT</pubDate>
         </item>
