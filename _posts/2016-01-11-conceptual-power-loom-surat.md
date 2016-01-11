@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=OjGo8kjMxFc'
 inLanguage: en
 starred: false
 keywords:
@@ -16,9 +15,9 @@ keywords:
   - gupshup
   - lehren
   - tutorial
-description: Uploaded by Creative Curve on 2014-06-21.
-datePublished: '2016-01-11T11:30:28.550Z'
-dateModified: '2016-01-11T11:03:32.839Z'
+description: ''
+datePublished: '2016-01-11T14:56:24.254Z'
+dateModified: '2016-01-11T14:56:13.705Z'
 author:
   - name: Creative Curve
     url: 'https://www.youtube.com/channel/UCzexIXFLF2xd103n6nkNb2A'
@@ -44,6 +43,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: conceptual-power-loom-surat/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
